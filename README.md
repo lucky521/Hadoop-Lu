@@ -1,10 +1,15 @@
 # Hadoop-Lu
 Here lists how I use Hadoop and HFS.
 
+# Run Program with Hadoop
 
+```
+$ cd java_md/
+$ ./run.sh
 
-
-
+$ cd py_md/
+$ ./run.sh
+```
 
 # Hadoop Machine Configuration
 
