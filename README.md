@@ -4,9 +4,11 @@ Here lists how I use Hadoop and HFS.
 # Run Program with Hadoop
 
 ```
+# java version
 $ cd java_md/
 $ ./run.sh
 
+# python version
 $ cd py_md/
 $ ./run.sh
 ```
