@@ -35,5 +35,19 @@ $ ./run.sh
 - /etc/hadoop/conf/mapred-site.xml
 - /etc/hadoop/conf/hdfs-site.xml
 
+# Mapper and Reducer
+
+## Map function
+
+- Input: orignal data
+- Todo: Split, Tokenize
+- Output: multiple (key, value)
+
+
+## Reduce function
+
+- Input: (key, multiple value)
+- Todo: Merge, Accumulate 
+- Output: (key, new-value)
 
 
